@@ -134,7 +134,7 @@ svg{
 .main-content{
     background-color: #cbd5e1;
     display: grid;
-    grid-template-columns: 5fr 2fr;
+    grid-template-columns: 3fr 1fr;
     grid-template-rows: 1fr 1fr;
     padding: 3vh 2vw;
 }
